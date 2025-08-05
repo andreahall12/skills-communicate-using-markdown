@@ -8,3 +8,6 @@ Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.gi
 ``` javaccript
 var myVar = "Hello, world";
 ```
+- [ ] Turn on GitHub Paes
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
